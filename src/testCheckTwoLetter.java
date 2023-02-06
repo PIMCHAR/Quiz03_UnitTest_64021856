@@ -14,7 +14,7 @@ public class testCheckTwoLetter {
 	
 	@Test
 	public void testAssertTrue(){
-		assertTrue(testObj.checkTwoLetter("aa"));
+		assertTrue(testObj.checkTwoLetter("aaaa"));
 	}
 	
 	@Test
